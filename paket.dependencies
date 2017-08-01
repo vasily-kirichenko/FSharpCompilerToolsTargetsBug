@@ -2,3 +2,4 @@ source https://api.nuget.org/v3/index.json
 framework: net462
 nuget System.ValueTuple
 nuget FSharp.Core
+nuget FSharp.Compiler.Tools

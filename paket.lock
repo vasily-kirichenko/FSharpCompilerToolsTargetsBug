@@ -1,5 +1,6 @@
 RESTRICTION: == net462
 NUGET
   remote: https://api.nuget.org/v3/index.json
+    FSharp.Compiler.Tools (4.1.23)
     FSharp.Core (4.2.2)
     System.ValueTuple (4.3.1)
