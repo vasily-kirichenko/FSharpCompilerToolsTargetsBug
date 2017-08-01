@@ -1,3 +1,5 @@
+RESTRICTION: == net462
 NUGET
   remote: https://api.nuget.org/v3/index.json
-    System.ValueTuple (4.3.1) - restriction: >= net462
+    FSharp.Core (4.2.2)
+    System.ValueTuple (4.3.1)

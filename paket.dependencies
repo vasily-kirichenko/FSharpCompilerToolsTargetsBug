@@ -1,3 +1,4 @@
 source https://api.nuget.org/v3/index.json
-
-nuget System.ValueTuple 4.3.1 restriction: >= net462
+framework: net462
+nuget System.ValueTuple
+nuget FSharp.Core
